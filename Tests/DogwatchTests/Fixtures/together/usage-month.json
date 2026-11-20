@@ -1,0 +1,52 @@
+{
+  "object": "list",
+  "organization_id": "org-sample",
+  "billing_period": "2026-11",
+  "earliest_window_start": "2026-11-01T00:00:00Z",
+  "latest_window_end": "2026-11-19T15:00:00Z",
+  "currency": "USD",
+  "data": [
+    {
+      "date": "2026-11-01",
+      "start_time": "2026-11-01T00:00:00Z",
+      "end_time": "2026-11-01T01:00:00Z",
+      "line_items": [
+        {
+          "product_name": "Serverless Inference - Input Tokens",
+          "quantity": "1200000",
+          "unit_price": "0.0000002",
+          "cost": "0.24",
+          "pricing_dimensions": {},
+          "attributes": {},
+          "applied_credit": {
+            "type": "PREPAID"
+          }
+        },
+        {
+          "product_name": "Serverless Inference - Output Tokens",
+          "quantity": "1100000",
+          "unit_price": "0.000001",
+          "cost": "1.10",
+          "pricing_dimensions": {},
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "start_time": "2026-11-19T14:00:00Z",
+      "end_time": "2026-11-19T15:00:00Z",
+      "line_items": [
+        {
+          "product_name": "Serverless Inference - Output Tokens",
+          "quantity": "500000",
+          "unit_price": "0.000001",
+          "cost": "0.50",
+          "pricing_dimensions": {},
+          "attributes": {}
+        }
+      ]
+    }
+  ],
+  "next_cursor": null
+}

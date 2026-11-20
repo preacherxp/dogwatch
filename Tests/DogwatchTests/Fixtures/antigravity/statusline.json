@@ -1,0 +1,9 @@
+{"quota": {
+  "gemini-weekly": {"remaining_fraction": 0.96, "reset_time": "2099-11-26T02:40:30Z", "reset_in_seconds": 560580},
+  "gemini-5h": {"remaining_fraction": 0.71, "reset_time": "2099-11-19T15:00:09Z", "reset_in_seconds": 12000},
+  "3p-weekly": {"remaining_fraction": 1, "reset_time": "2099-11-26T02:40:30Z"},
+  "3p-5h": {"remaining_fraction": 0.5, "reset_time": "2020-01-01T00:00:00Z"},
+  "argon-weekly": {"remaining_fraction": 0.2, "reset_time": "2099-11-26T02:40:30Z", "disabled": true},
+  "credits": {"remaining_amount": "120"}
+ },
+ "plan_tier": "Pro"}

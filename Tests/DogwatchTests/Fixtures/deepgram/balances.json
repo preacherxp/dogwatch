@@ -1,0 +1,1 @@
+{"balances": [{"balance_id": "sample-1", "amount": 100.5, "units": "USD", "purchase_order_id": "sample-po-1"}, {"balance_id": "sample-2", "amount": 87, "units": "usd", "purchase_order_id": "sample-po-2"}, {"balance_id": "sample-3", "amount": 12, "units": "hour", "purchase_order_id": "sample-po-3"}, {"balance_id": "sample-4", "amount": 5}]}

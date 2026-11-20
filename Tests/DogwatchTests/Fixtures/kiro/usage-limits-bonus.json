@@ -1,0 +1,4 @@
+{"usageBreakdownList": [
+  {"resourceType": "CREDIT", "currentUsageWithPrecision": 120, "usageLimitWithPrecision": 50,
+   "currentOveragesWithPrecision": 0, "nextDateReset": 4102444800, "bonuses": [{"bonusCode": "TRIAL"}]}
+ ]}

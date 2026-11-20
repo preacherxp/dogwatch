@@ -1,0 +1,7 @@
+{"id": 1000002, "login": "sample-login", "access_type_sku": "sample_paid_sku", "copilot_plan": "individual",
+ "token_based_billing": true, "quota_reset_date": "2099-12-01", "quota_reset_date_utc": "2099-12-01T00:00:00.000Z",
+ "quota_snapshots": {
+   "chat": {"entitlement": 0, "remaining": 0, "percent_remaining": 100.0, "unlimited": true, "has_quota": true, "quota_id": "chat", "token_based_billing": true, "credits_used": 312},
+   "completions": {"entitlement": 0, "remaining": 0, "percent_remaining": 100.0, "unlimited": true, "has_quota": true, "quota_id": "completions", "token_based_billing": true, "credits_used": 0},
+   "premium_interactions": {"entitlement": 0, "remaining": 0, "percent_remaining": 0.0, "unlimited": false, "has_quota": false, "quota_id": "premium_interactions",
+            "token_based_billing": true, "credits_used": 312, "overage_count": 0, "overage_permitted": true}}}

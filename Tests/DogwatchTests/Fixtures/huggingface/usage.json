@@ -1,0 +1,46 @@
+[
+  {
+    "period": "2026-11-01T00:00:00.000Z",
+    "usage": [
+      {
+        "user": "sample-member-a",
+        "model": "sample/model",
+        "provider": "sample-provider",
+        "requestCount": 10,
+        "costCents": 150,
+        "inputTokens": 1000,
+        "outputTokens": 500,
+        "cachedInputTokens": 0
+      },
+      {
+        "user": null,
+        "model": null,
+        "provider": "sample-provider",
+        "requestCount": 2,
+        "costCents": 25,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "cachedInputTokens": 0
+      }
+    ]
+  },
+  {
+    "period": "2026-11-02T00:00:00.000Z",
+    "usage": []
+  },
+  {
+    "period": "2026-11-19T00:00:00.000Z",
+    "usage": [
+      {
+        "user": "sample-member-b",
+        "model": "sample/model",
+        "provider": "sample-provider",
+        "requestCount": 40,
+        "costCents": 1234,
+        "inputTokens": 9000,
+        "outputTokens": 3000,
+        "cachedInputTokens": 100
+      }
+    ]
+  }
+]

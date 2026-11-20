@@ -1,0 +1,31 @@
+{
+  "months": [
+    {
+      "period": "2026.11",
+      "interval": {
+        "fr": 1793491200000,
+        "to": 1796083199999
+      },
+      "items": [
+        {
+          "model": {
+            "provider": "sample",
+            "model_name": "sample/model",
+            "task": "text-generation"
+          },
+          "units": 120000,
+          "rate": 0.001,
+          "cost": 120,
+          "pricing_type": "input_tokens",
+          "interval": {
+            "fr": 1793491200000,
+            "to": 1796083199999
+          }
+        }
+      ],
+      "total_cost": 1234,
+      "invoice_id": "NOT_FINAL"
+    }
+  ],
+  "initial_month": "2025.03"
+}

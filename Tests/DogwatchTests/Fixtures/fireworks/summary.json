@@ -1,0 +1,63 @@
+{
+  "lineItems": [
+    {
+      "category": "Text Completion",
+      "groupingKey": "model",
+      "groupingValue": "sample-model",
+      "quantity": 123,
+      "unitAmount": {
+        "currencyCode": "USD",
+        "units": "0",
+        "nanos": 900000
+      },
+      "totalCost": {
+        "currencyCode": "USD",
+        "units": "12",
+        "nanos": 340000000
+      },
+      "series": "SERVERLESS"
+    },
+    {
+      "category": "Embeddings",
+      "groupingKey": "model",
+      "groupingValue": "sample-embed",
+      "quantity": 50,
+      "totalCost": {
+        "currencyCode": "USD",
+        "units": "0",
+        "nanos": 50000000
+      },
+      "series": "SERVERLESS"
+    }
+  ],
+  "usageBuckets": [
+    {
+      "startTime": "2026-11-01T00:00:00Z",
+      "endTime": "2026-11-02T00:00:00Z",
+      "lineItems": [
+        {
+          "category": "Text Completion",
+          "totalCost": {
+            "currencyCode": "USD",
+            "units": "10",
+            "nanos": 890000000
+          }
+        }
+      ]
+    },
+    {
+      "startTime": "2026-11-19T00:00:00Z",
+      "endTime": "2026-11-20T00:00:00Z",
+      "lineItems": [
+        {
+          "category": "Text Completion",
+          "totalCost": {
+            "currencyCode": "USD",
+            "units": "1",
+            "nanos": 500000000
+          }
+        }
+      ]
+    }
+  ]
+}

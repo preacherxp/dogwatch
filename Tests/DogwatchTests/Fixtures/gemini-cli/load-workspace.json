@@ -1,0 +1,3 @@
+{"currentTier": {"id": "standard-tier", "name": "Gemini Code Assist Standard"},
+ "allowedTiers": [{"id": "standard-tier", "name": "Gemini Code Assist Standard", "isDefault": true}],
+ "cloudaicompanionProject": "sample-project-123"}

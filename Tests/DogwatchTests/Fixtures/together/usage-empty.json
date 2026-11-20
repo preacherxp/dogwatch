@@ -1,0 +1,10 @@
+{
+  "object": "list",
+  "organization_id": "org-sample",
+  "billing_period": "2026-11",
+  "earliest_window_start": null,
+  "latest_window_end": null,
+  "currency": "USD",
+  "data": [],
+  "next_cursor": null
+}

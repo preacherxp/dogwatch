@@ -1,0 +1,26 @@
+[
+  {
+    "token_id": "tok_sample_1",
+    "name": "sample-laptop-key",
+    "limit": 20,
+    "spend": 5
+  },
+  {
+    "token_id": "tok_sample_2",
+    "name": "sample-ci-key",
+    "limit": 10,
+    "spend": 9
+  },
+  {
+    "token_id": "tok_sample_3",
+    "name": "sample-unlimited",
+    "limit": null,
+    "spend": 3
+  },
+  {
+    "token_id": "tok_sample_4",
+    "name": "sample-new",
+    "limit": 50,
+    "spend": null
+  }
+]

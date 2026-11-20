@@ -1,0 +1,2 @@
+{"allowedTiers": [],
+ "ineligibleTiers": [{"reasonCode": "UNSUPPORTED_CLIENT", "reasonMessage": "Use Antigravity", "tierId": "free-tier", "tierName": "Gemini Code Assist for individuals"}]}

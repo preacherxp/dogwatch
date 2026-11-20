@@ -1,0 +1,6 @@
+<application>
+  <component name="AIAssistantQuotaManager2">
+    <option name="nextRefill" value="{&quot;type&quot;:&quot;Error&quot;,&quot;exception&quot;:&quot;sample exception&quot;,&quot;previous&quot;:null}" />
+    <option name="quotaInfo" value="{&quot;type&quot;:&quot;Unknown&quot;}" />
+  </component>
+</application>

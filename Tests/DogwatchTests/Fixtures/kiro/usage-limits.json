@@ -1,0 +1,8 @@
+{"usageBreakdownList": [
+  {"resourceType": "AGENTIC_REQUEST", "currentUsageWithPrecision": 3, "usageLimitWithPrecision": 50},
+  {"resourceType": "CREDIT", "currentUsageWithPrecision": 412.5, "usageLimitWithPrecision": 1000,
+   "currentOveragesWithPrecision": 0, "overageCapWithPrecision": 0, "overageCharges": 0, "overageRate": 0.04,
+   "currency": "USD", "nextDateReset": 4102444800, "bonuses": []}
+ ],
+ "overageConfiguration": {"overageStatus": "DISABLED"},
+ "nextDateReset": 4102444800}
